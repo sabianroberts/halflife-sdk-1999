@@ -1,0 +1,37 @@
+Half-Life Standard SDK:
+
+Questions about the SDK should be sent to het3@valvesoftware.com.
+
+Contents:
+
+SourceCode:
+
+The directory containing all the code to the game DLL required to create multiplayer add-ons for Half-Life, or bots.  Also included is the source code to all the compiling utilities for the carious elements of Half-Life.
+
+Server Info:
+
+Server protocol.txt contains all the information folks should need if they wish to write a separate net game launcher.
+
+Models:
+
+The models provided should give a good example of the possibilities for building characters for use with Half-Life.  Examples are provided of characters and weapons that appear in the game, to allow modellers to familiarize themselves with the character building process.
+
+PlayerModels: animations, textures, and .qc scripts for the Player Models (all shipped versions).
+
+WeaponModels: world model and view model with animations of the Assault Rifle and Gluon Gun.
+
+Maps:
+
+Two of the opening maps from Half-Life, with their lighting radiosity files, are provided as they contain good examples of some of the most complicated entity scripting to be found within the game. They should serve as a good source for learning how to use the more powerful HL entities like multisource, multimanager, scipted_sequence, AIscripted_sequence, and scripted_sentence.  A third map, env_beam, is a demo map of various beam effects that can be achieved with the env_beam entity.
+
+C1a0.rmf and C1a0.rad
+C1a0d.rmf and C1a0d.rad
+Env_beam.rmf
+
+SpriteTools:
+
+Tutorial, samples, and support files for creating sprites for Half-Life.
+
+TextureTools:
+
+Tutorial, samples, and support files for creating texture WADs for Half-Life.
