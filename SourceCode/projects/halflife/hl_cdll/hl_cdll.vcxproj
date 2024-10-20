@@ -53,6 +53,17 @@
     <ClInclude Include="..\..\..\cl_dll\parsemsg.h" />
     <ClInclude Include="..\..\..\cl_dll\util.h" />
     <ClInclude Include="..\..\..\cl_dll\util_vector.h" />
+    <ClInclude Include="..\..\..\engine\ANORMS.H" />
+    <ClInclude Include="..\..\..\engine\cdll_int.h" />
+    <ClInclude Include="..\..\..\engine\const.h" />
+    <ClInclude Include="..\..\..\engine\custom.h" />
+    <ClInclude Include="..\..\..\engine\customentity.h" />
+    <ClInclude Include="..\..\..\engine\cvardef.h" />
+    <ClInclude Include="..\..\..\engine\eiface.h" />
+    <ClInclude Include="..\..\..\engine\progdefs.h" />
+    <ClInclude Include="..\..\..\engine\PROGS.H" />
+    <ClInclude Include="..\..\..\engine\shake.h" />
+    <ClInclude Include="..\..\..\engine\studio.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\..\cl_dll\cl_dll.dsp" />
